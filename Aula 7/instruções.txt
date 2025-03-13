@@ -1,0 +1,19 @@
+*Criar pasta frontend no projeto e executar o comando (nome minúsculo)
+
+npx create-react-app
+
+npx é uma ferramenta do node que executa pacotes de npm sem a necessidade 
+de instalar globalmente
+
+*intalar os pacotes:
+-axios - Conexão com api
+-events - mensageria
+-react-icons - icones
+-react-router-dom - mapeamento das páginas
+
+*criar pastas em src
+-components
+-utils
+-context
+-looks
+-pages
