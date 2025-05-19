@@ -1,0 +1,9 @@
+Passagem Parâmetros React
+
+1- Via URL - ideal para identificar recursos(useParams)
+	     <Link to = "/usuário/123">
+2- Quarry String = (?chave = valor) - Paginação, filtros(useLocation)
+
+3- Via estado(state) - dados que não ficam visíveis na url, por exemplo o objeto todo
+			<Link to = \details state = {{produto:{id:1, nome:"mouse"}}}>
+	

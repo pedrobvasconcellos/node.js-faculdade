@@ -1,0 +1,5 @@
+XSS - Cross-site scripting. Invasor injeta scripts maliciosos. 
+Roubam cookies, redireciona páginas falsas, coleta dados confidenciais, etc
+
+CRF - Cross-site request forgery - ataque que induz o usuário logado
+a executar uma ação indesejada sem saber
